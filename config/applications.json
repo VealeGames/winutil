@@ -2033,6 +2033,15 @@
 		"panel": "0",
 		"winget": "Alex313031.Thorium.AVX2"
 	},
+	"WPFInstallthorium": {
+		"category": "Communications",
+		"choco": "na",
+		"content": "ZohoMail",
+		"description": "The comfort of your webmail now in your desktop with Zoho Mail Desktop",
+		"link": "https://www.zoho.com/mail/",
+		"panel": "0",
+		"winget": "Zoho.ZohoMail.Desktop"
+	},
 	"WPFInstallthunderbird": {
 		"category": "Communications",
 		"choco": "thunderbird",
